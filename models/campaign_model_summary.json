@@ -1,0 +1,14 @@
+{
+  "ctr": {
+    "best_model": "LinearRegression",
+    "rmse": 0.6033
+  },
+  "roi": {
+    "best_model": "LinearRegression",
+    "rmse": 0.4102
+  },
+  "engagement_score": {
+    "best_model": "LinearRegression",
+    "rmse": 1.2134
+  }
+}
